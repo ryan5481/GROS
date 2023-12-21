@@ -32,7 +32,7 @@ const Jobs = () => {
     ]
 
     return (
-        <div  className="mt-[100px]">
+        <div  className="mt-[100px] bg-white">
         <JobCategories data={data} />
         <RecruitmentProcedure />
         <DocumentsRequired />

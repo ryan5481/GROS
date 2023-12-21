@@ -64,7 +64,7 @@ const ImageGallery = () => {
     ]
 
     return(
-        <div  className="mt-[100px]">
+        <div className="mt-[100px]">
         <ImageGalleryGrid data={galleryImageList} imageFolderName="galleryImages" galleryTitle="Photo Gallery" />
         </div>
     )

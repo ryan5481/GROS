@@ -34,7 +34,7 @@ const RecruitmentProcedure = () => {
 
     return (
         <div>
-            <div className="flex fontweight-bold font-bold justify-center text-red-500 bg-white text-[40px] py-5">
+            <div className="flex mt-[100px] fontweight-bold font-bold justify-center text-red-500 bg-white text-[40px] py-5"> 
                 Recruitment Procedure
             </div>
             <div class="flex h-full items-center justify-center bg-white p-10 md:px-60">
